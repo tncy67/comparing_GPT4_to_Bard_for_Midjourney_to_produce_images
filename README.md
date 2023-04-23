@@ -1,0 +1,1 @@
+# comparing_GPT4_to_Bard_for_Midjourney_to_produce_images
